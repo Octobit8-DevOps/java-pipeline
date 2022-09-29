@@ -8,7 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Running Jenkins!" );
-        System.out.println( "Buid Result" );
+
+        System.out.println( "Hello Jenkins!" );
+
     }
 }
